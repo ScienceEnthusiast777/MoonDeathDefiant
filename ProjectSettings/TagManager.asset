@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackGround
+  - ForeGround
+  - Player
+  - Pain
+  - Box
+  - Potion
+  - Baddie
+  - BaddieFOV
+  - BaddieHit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 306472111
+    locked: 0
+  - name: PurpleGoo
+    uniqueID: 2772646703
+    locked: 0
+  - name: ForeGround
+    uniqueID: 4183760849
+    locked: 0
+  - name: Player
+    uniqueID: 2141392857
+    locked: 0
+  - name: Warp
+    uniqueID: 1374311933
+    locked: 0
+  - name: Objects
+    uniqueID: 1781581381
+    locked: 0
+  - name: Baddie
+    uniqueID: 1150635951
+    locked: 0
